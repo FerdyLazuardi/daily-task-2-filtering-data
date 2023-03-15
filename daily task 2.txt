@@ -1,0 +1,12 @@
+wajib ada yang menggunakan array method FIND, FILTER atau MAP dalam pengerjaannya.
+
+1) display/print person yang registered dibawah tahun 2022
+2) display person yang address nya Bali 
+3) display friends yang hobby nya football
+4) display hobby dari friends id 2
+5) display friends yang gender nya male dan mempunya hobby basketball
+6) display friends yang isActive nya true dan gender nya female dan favorite fruit nya strawberry
+7) display siapa saja yang mempunya teman name Theresia
+8) display hobby id 1 dari friends yang isActive nya true
+9) display person yang eye color nya brown dan favorite fruit nya banana dan mempunyai teman hobby basketball
+10) display person yang mempunya friends gender male atau favorite fruit nya banana dan registered di tahun 2023
